@@ -1,0 +1,21 @@
+.diet-nutrition-page {
+    padding: 20px;
+  }
+  
+  .calorie-tracker {
+    margin-top: 30px;
+  }
+  
+  .progress-bar {
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    height: 20px;
+    width: 100%;
+  }
+  
+  .progress {
+    background-color: #4caf50;
+    height: 100%;
+    border-radius: 5px;
+  }
+  
